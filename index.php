@@ -20,9 +20,7 @@
     <?php
     echo "Hello world!";
     ?>
-    aaa <br>
-    bbb <br>
-    ccc <br>
+    111
 </body>
 
 </html>
